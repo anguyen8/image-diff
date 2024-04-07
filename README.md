@@ -1,6 +1,7 @@
 # Improving Change Detection by Incorporating Correspondence Information
 
 ![results](figures/CYWS_vs_Our.png)
+
 A comparison between The Change You Want to See (CYWS) and our model's quality outcomes
 
 ## Datasets
@@ -82,6 +83,8 @@ synthtext_change
 
 ## Example Usage
 
+Please download all pretrained models before beginning the training and evaluation process
+
 Training:
 
 `main.py --method centernet --gpus 4 --config_file configs/detection_resnet50_3x_coam_layers_affine.yml --max_epochs 200 --decoder_attention scse --load_weights_from pretrained-resnet50-3x-coam-scSE-affine.ckpt`
@@ -96,6 +99,8 @@ Evaluation:
 [Pre-trained model of CYWS](https://thor.robots.ox.ac.uk/~vgg/data/cyws/pretrained-resnet50-3x-coam-scSE-affine.ckpt.gz)
 
 [DeepEMD pre-trained model](https://github.com/icoz69/DeepEMD)
+
+[SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork/tree/ddcf11f42e7e0732a0c4607648f9448ea8d73590)
 
 [Our fine-tunned model](https://drive.google.com/file/d/1ISFReljEB46HHamDVl_N6je7CuqwTIG7/view?usp=sharing)
 
