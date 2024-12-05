@@ -5,7 +5,6 @@
         Hung Huy Nguyen</a><sup>1</sup>,
         <a href="https://pooyanrg.me">Pooyan Rahmanzadehgervi</a><sup>1</sup>, 
         <a href="https://mai-t-long.com">Long Mai</a><sup>2</sup>, 
-        <a href="https://research.adobe.com/person/trung-bui/">Trung Bui</a><sup>2</sup>, 
         <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>1</sup>
     </p>
     <p>
