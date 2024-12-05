@@ -1,10 +1,11 @@
-# Improving zero-shot object-level change detection by incorporating corresondence information
+# Improving zero-shot object-level change detection by incorporating visual correspondence
 
 <div align="center">    
     <p style="font-size: 45px;"> by 
         Hung Huy Nguyen</a><sup>1</sup>,
         <a href="https://pooyanrg.me">Pooyan Rahmanzadehgervi</a><sup>1</sup>, 
         <a href="https://mai-t-long.com">Long Mai</a><sup>2</sup>, 
+        <a href="https://research.adobe.com/person/trung-bui/">Trung Bui</a><sup>2</sup>, 
         <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>1</sup>
     </p>
     <p>
@@ -12,7 +13,7 @@
     </p>
 </div>
 
-This repository contains the code and data for the paper `Vision Language Models Are Blind`.
+This repository contains the code and data for the paper `Improving zero-shot object-level change detection by incorporating visual correspondence` (WACV 2025).
 
 ## Abstract
 *Zero-shot identification of key object-level changes between two images is a fundamental task to many applications 
