@@ -12,7 +12,7 @@
     </p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.05555-b31b1b.svg)](https://arxiv.org/abs/2501.05555)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-yellow.svg)](https://arxiv.org/abs/2501.05555)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-yellow.svg)](https://huggingface.co/papers/2501.05555)
 [![Code License](https://img.shields.io/badge/Code_License-MIT-green.svg)](LICENSE)
     
 </div>
