@@ -22,7 +22,6 @@ import utils_cyws.general
 import wandb
 from data.datamodule import DataModule
 from models.coattention import CoAttentionModule
-from models.centernet_utils import get_bboxes
 from segmentation_models_pytorch.unet.model import Unet
 from utils_cyws.voc_eval import BoxList, eval_detection_voc
 from utils_cyws import box_ops
