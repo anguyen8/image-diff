@@ -2,7 +2,7 @@
 
 <div align="center">    
     <p style="font-size: 45px;"> by 
-        Hung Huy Nguyen</a><sup>1</sup>,
+        <a href="https://hungnh1125.github.io/Huy-Nguyen.github.io/">Hung Huy Nguyen</a><sup>1</sup>,
         <a href="https://pooyanrg.me">Pooyan Rahmanzadehgervi</a><sup>1</sup>, 
         <a href="https://mai-t-long.com">Long Mai</a><sup>2</sup>, 
         <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>1</sup>
